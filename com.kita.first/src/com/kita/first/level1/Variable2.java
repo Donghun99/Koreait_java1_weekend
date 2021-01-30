@@ -7,7 +7,7 @@ public class Variable2 {
 		long v2 = 1234556L;
 		float v3 = 1225.232F;
 		
-		String v4 = "문자열";
+		String v4 = "문자열";//참조변수
 	}
 
 }
