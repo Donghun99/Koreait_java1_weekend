@@ -24,7 +24,7 @@ public class ArrayCopy {
 //		}
 //		
 //		for(int val : arr3) {
-//			System.out.println(val+ ", ");
+//			System.out.println(val + ", ");
 //		}
 		
 		System.out.println(Arrays.toString(arr3));//그냥 arr만 찍으면 주솟값이 출력

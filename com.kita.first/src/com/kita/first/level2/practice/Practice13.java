@@ -20,6 +20,7 @@ public class Practice13 {
 		
 		System.out.println();
 		System.out.println(Arrays.deepToString(arr));//반복문을 사용 안해도 됨
+		
 	
 	}
 
